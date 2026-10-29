@@ -1,0 +1,7 @@
+#list of files to not track with git.
+build/
+install/
+log/
+__pycache__/
+CLAUDE.md
+docs/
